@@ -1,0 +1,6 @@
+/x11_server
+*.o
+*~
+/client
+/foo.png
+/wxvfb
